@@ -12,8 +12,8 @@ To develop it I use REAL reviews of REAL tabs. This is a review management proje
 
 ## Tech Stack
 
-
-![image]({https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue})
+<img src="{https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue}" />
+![image]({})
 
 ![image]({https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white})
 
